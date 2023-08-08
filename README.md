@@ -14,6 +14,8 @@
  
 </div>
 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+
 <!--
 **gayeon0123/gayeon0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
