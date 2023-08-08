@@ -31,9 +31,9 @@
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <br>
-  
 </div>
 
+<div>
 <hr>
 
 <a href="mailto:gimgayeon20@gmail.com">
@@ -41,6 +41,7 @@
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gimgayeon20@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+</div>
 
 <!--
 **gayeon0123/gayeon0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
