@@ -5,7 +5,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayeon0123&layout=compact&theme=dracula)](https://github.com/metleeha)
  
 <hr>
-<br>
 
 <div align=center><h2>📚 STACKS</h2></div>
 
