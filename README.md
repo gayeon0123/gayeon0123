@@ -2,8 +2,6 @@
  
 <div align=center>
  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gayeon0123&show_icons=true&theme=radical) 
- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayeon0123&layout=compact&theme=dracula)](https://github.com/metleeha)
  
 <hr>
