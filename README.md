@@ -1,4 +1,4 @@
-<div align=center><h1>👋 Hi, I’m @gayeon0123 </h1><br></div>
+<div align=center><h1>👋 Hi, I’m @gayeon0123 </h1><br><br></div>
  
 <div align=center>
  
@@ -27,6 +27,11 @@
 
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
   <br><br>
+
+  <a href="mailto:github.com/gayeon0123">
+    <img 
+        src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+  </a>
   
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
