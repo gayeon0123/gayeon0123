@@ -1,5 +1,3 @@
-<div><img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Yuhyeon's Github&fontSize=50" /></div>
-
 <div align=center><h1>😄 Hi, I’m @gayeon0123 </h1><br></div>
  
 <div align=center>
