@@ -1,4 +1,4 @@
-<div align=center><h1>😄 Hi, I’m GaYeon </h1><br></div>
+<div align=center><h1>😄 Hi, I’m GaYeon! </h1><br></div>
  
 <div align=center>
  
