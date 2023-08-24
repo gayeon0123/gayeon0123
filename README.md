@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayeon0123&langs_count=8)](https://github.com/gayeon0123/github-readme-stats)
  
 <hr>
-<br><br>
+<br>
 
 <div align=center><h2>✨ STACKS</h2></div>
 
@@ -36,7 +36,7 @@
   <td>
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-   <img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </td>
  <tr>
 <td><b>Etc</td>
@@ -52,6 +52,7 @@
 
 <div>
 <hr>
+<br>
 
 <a href="mailto:gimgayeon20@gmail.com">
     <img 
