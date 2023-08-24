@@ -35,8 +35,8 @@
 <td><b>Tools</td>
   <td>
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   </td>
  <tr>
 <td><b>Etc</td>
